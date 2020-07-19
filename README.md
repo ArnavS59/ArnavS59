@@ -1,4 +1,4 @@
-## Hola, I'm Arnav 👋
+### Hola, I'm Arnav 👋
 
 - 💻 Bachelor's Degree in Computer Science
 - 🔭 I’m currently working on Flutter 🎯
@@ -12,8 +12,7 @@
 [![Medium](https://img.shields.io/badge/-Medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white)
 
 
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=ArnavS59&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
 <!--🏡 [Website][Website] **|** 
@@ -29,4 +28,3 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=ArnavS59&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
