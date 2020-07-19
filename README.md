@@ -1,22 +1,29 @@
-### Hola, I'm Arnav 👋
+## Hola, I'm Arnav 👋
 
+- 💻 Bachelor's Degree in Computer Science
 - 🔭 I’m currently working on Flutter 🎯
 - 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on any ML Projects.
 - 🤔 I’m looking for help with Deep Learning and 🧻
 - 💬 Ask me about Flutter or any tech related stuff 💻 
-- 😄 Pronouns: He/him
 - ⚡ Fun fact: I can do Abacus.
 - 📫 How to reach me: 
-🏡 [Website][Website] **|** 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-/)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:arsingh@jacobs-university.de)
+[![Medium](https://img.shields.io/badge/-Medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white)
+
+
+
+
+
+
+<!--🏡 [Website][Website] **|** 
 🐦 [Twitter][Twitter] **|** 
 📷 [Instagram][Instagram] **|** 
 👔 [Linkedin][Linkedin] **|** 
-📝 [Medium][Medium]
+📝 [Medium][Medium]--!>
 
-[Website]: https://arnavs59.github.io/
+<!--[Website]: https://arnavs59.github.io/
 [Twitter]: https://twitter.com/not_arnav_
-[Instagram]: https://www.instagram.com/_not_arnav/?hl=en
 [Linkedin]: https://www.linkedin.com/in/arnav-/
 [Medium]: https://medium.com/@arnavbhaiya
 
