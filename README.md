@@ -9,9 +9,9 @@
 - 📫 How to reach me: 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-/)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:arsingh@jacobs-university.de)
-[![Medium](https://img.shields.io/badge/-Medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white)
+[![Medium](https://img.shields.io/badge/-Medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white)](https://medium.com/@arnavbhaiya)
 
-
+[Medium]: https://medium.com/@arnavbhaiya
 <img src="https://github-readme-stats.vercel.app/api?username=ArnavS59&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
@@ -24,7 +24,7 @@
 <!--[Website]: https://arnavs59.github.io/
 [Twitter]: https://twitter.com/not_arnav_
 [Linkedin]: https://www.linkedin.com/in/arnav-/
-[Medium]: https://medium.com/@arnavbhaiya
+
 
 
 
