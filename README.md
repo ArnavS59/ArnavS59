@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Flutter 🎯
 - 🌱 I’m currently learning Machine Learning
 - 🤔 I’m looking for help with Deep Learning and 🧻
-- 💬 Ask me about Flutter or any tech related stuff 💻. 
+- 💬 Ask me about Flutter or any tech related stuff 💻 
 - ⚡ Fun fact: I can do Abacus.
 - 📫 How to reach me: 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-/)
