@@ -1,5 +1,5 @@
 ### Hola, I'm Arnav 👋
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="ArnavS59" /> </p>
 - 💻 Bachelor's Degree in Computer Science
 - 🔭 I’m currently working on Flutter 🎯
 - 🌱 I’m currently learning Machine Learning.
