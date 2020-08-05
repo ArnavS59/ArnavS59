@@ -27,7 +27,7 @@
 
 - 💻 Bachelor's Degree in Computer Science
 - 🔭 I’m currently working on Flutter 🎯
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently learning Machine Learning
 - 🤔 I’m looking for help with Deep Learning and 🧻
 - 💬 Ask me about Flutter or any tech related stuff 💻 
 - ⚡ Fun fact: I can do Abacus.
